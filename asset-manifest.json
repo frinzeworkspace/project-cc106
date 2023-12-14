@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/project-cc106/static/css/main.6970d0f2.css",
+    "main.js": "/project-cc106/static/js/main.f6b264b8.js",
+    "static/media/fa-duotone-900.svg": "/project-cc106/static/media/fa-duotone-900.1608cc68ed95bdab3e23.svg",
+    "static/media/background.gif": "/project-cc106/static/media/background.0230447bb33870fb5c4c.gif",
+    "static/media/fa-duotone-900.eot": "/project-cc106/static/media/fa-duotone-900.e6df3ccd2c18fa4aa999.eot",
+    "static/media/fa-duotone-900.ttf": "/project-cc106/static/media/fa-duotone-900.e4227bedad83d59656b4.ttf",
+    "static/media/fa-duotone-900.woff": "/project-cc106/static/media/fa-duotone-900.8007c3d55ab05f26330d.woff",
+    "static/media/fa-duotone-900.woff2": "/project-cc106/static/media/fa-duotone-900.b8e58f2bb0ee4c37cd08.woff2",
+    "index.html": "/project-cc106/index.html",
+    "main.6970d0f2.css.map": "/project-cc106/static/css/main.6970d0f2.css.map",
+    "main.f6b264b8.js.map": "/project-cc106/static/js/main.f6b264b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6970d0f2.css",
+    "static/js/main.f6b264b8.js"
+  ]
+}
