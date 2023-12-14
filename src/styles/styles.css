@@ -15,7 +15,7 @@ body {
 }
 
 .background{
-  background: url('C:\Users\frinz\Desktop\practice\public\background.gif');
+  background: url('/home/frinze/project/public/background.gif');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
